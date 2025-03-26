@@ -1,5 +1,5 @@
 // Array of URLs to fetch
-const urls = ['/notes/75','/notes/76','/notes/77','/notes/78','/notes/79','/notes/80','/notes/81','/notes/82','/notes/83','/notes/84'];
+const urls = ['/notes/1','/notes/2','/notes/3','/notes/4','/notes/5','/notes/6','/notes/7','/notes/8','/notes/9','/notes/10'];
 let results = [];
 
 // Function to process URLs recursively
